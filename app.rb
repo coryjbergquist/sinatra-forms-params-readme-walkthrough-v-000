@@ -11,6 +11,4 @@ class App < Sinatra::Base
     params.to_s
   end
 
-  end
-
 end
